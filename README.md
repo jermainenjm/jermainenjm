@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jermainenjm
-- 👀 I’m interested in blockchain technology especially in the area of NFTs and the DeFi space
+- 👀 I’m interested in blockchain technology and the finance/tech industry too
 - 🌱 I’m currently learning Data Analytics and looking to learn from tech enthusiasts
 
 <!---
